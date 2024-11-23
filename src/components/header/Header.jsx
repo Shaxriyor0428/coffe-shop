@@ -1,4 +1,5 @@
 import React from "react";
+
 import logo from "../../assets/logo.png";
 import { FiShoppingBag } from "react-icons/fi";
 import { FaSearch } from "react-icons/fa";
